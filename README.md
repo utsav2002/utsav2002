@@ -1,12 +1,12 @@
 Hi 👋 My name is Utsav Kailash Kothari
 ======================================
 
-Machine Learning Engineer
+ML Enthusiast and Data Science Problem Solver | TensorFlow, Scikit-Learn, Python, R | Continuous Learner in AI and Technology |
 -------------------------
 
 * 🌍  I'm based in Newcastle Upon Tyne, UK
 * ✉️  You can contact me at [utsavkothari2002@gmail.com](mailto:utsavkothari2002@gmail.com)
-* 🤝  I'm open to collaborating on Projects Aligning with Drones, Fintech or some new revolutionary technology.
+* 🤝  I'm open to collaborating on professionals and teams working in Fintech, AI-driven IT solutions, drone technology, and data science projects focused on predictive analytics, machine learning models, and automation."
 
 ### Skills
 
